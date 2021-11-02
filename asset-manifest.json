@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/portfolio-m/static/js/main.798240c2.chunk.js",
+    "main.js.map": "/portfolio-m/static/js/main.798240c2.chunk.js.map",
+    "runtime-main.js": "/portfolio-m/static/js/runtime-main.23c028d1.js",
+    "runtime-main.js.map": "/portfolio-m/static/js/runtime-main.23c028d1.js.map",
+    "static/js/2.12aa9c63.chunk.js": "/portfolio-m/static/js/2.12aa9c63.chunk.js",
+    "static/js/2.12aa9c63.chunk.js.map": "/portfolio-m/static/js/2.12aa9c63.chunk.js.map",
+    "index.html": "/portfolio-m/index.html",
+    "static/js/2.12aa9c63.chunk.js.LICENSE.txt": "/portfolio-m/static/js/2.12aa9c63.chunk.js.LICENSE.txt",
+    "static/media/BBDThumbnail.9ee6b37b.png": "/portfolio-m/static/media/BBDThumbnail.9ee6b37b.png",
+    "static/media/DesignRThumbnail.cde3aea7.png": "/portfolio-m/static/media/DesignRThumbnail.cde3aea7.png",
+    "static/media/avatar.c42742f7.jpg": "/portfolio-m/static/media/avatar.c42742f7.jpg",
+    "static/media/design.0ff57597.svg": "/portfolio-m/static/media/design.0ff57597.svg",
+    "static/media/game-dev.9712b799.svg": "/portfolio-m/static/media/game-dev.9712b799.svg",
+    "static/media/intelligence.e83bc94d.svg": "/portfolio-m/static/media/intelligence.e83bc94d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23c028d1.js",
+    "static/js/2.12aa9c63.chunk.js",
+    "static/js/main.798240c2.chunk.js"
+  ]
+}
