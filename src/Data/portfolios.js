@@ -18,7 +18,7 @@ const portfolios = [
 		link1: 'https://comingsoon',
 		link2: 'https://www.behance.net/gallery/127537841/Design-R',
 		title: 'DesignR',
-		text: 'Created using React.',
+		text: 'Created in Figma.',
 	},
 	{
 		id: 3,
@@ -26,7 +26,7 @@ const portfolios = [
 		image: OneTap,
 		link1: 'https://comingsoon',
 		link2: 'https://www.behance.net/gallery/132149357/OneTap-Smart-Lock-App',
-		title: 'Buybydeal 2.0 Concept',
+		title: 'OneTap - Smart Lock Concept Design',
 		text: 'Created in Figma.',
 	},
 ];
